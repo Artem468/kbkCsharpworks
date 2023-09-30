@@ -1,0 +1,14 @@
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\bin\Debug\net7.0\lab2Belikh_2.exe
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\bin\Debug\net7.0\lab2Belikh_2.deps.json
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\bin\Debug\net7.0\lab2Belikh_2.runtimeconfig.json
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\bin\Debug\net7.0\lab2Belikh_2.dll
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\bin\Debug\net7.0\lab2Belikh_2.pdb
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.AssemblyInfo.cs
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.dll
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\refint\lab2Belikh_2.dll
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.pdb
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\lab2Belikh_2.genruntimeconfig.cache
+C:\Users\Артём\Desktop\Csharp\lab2Belikh_2\lab2Belikh_2\obj\Debug\net7.0\ref\lab2Belikh_2.dll
