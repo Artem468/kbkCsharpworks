@@ -4,7 +4,7 @@ Console.Write("Введите число от 1 до 3: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите x: ");
-int x = Convert.ToInt32(Console.ReadLine());
+double x = Convert.ToDouble(Console.ReadLine());
 
 
 switch (n)
@@ -15,17 +15,17 @@ switch (n)
         if (x <= a)
         {
             double y = a + Math.Sin(b * x) + Math.Cos(x * x);
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
         else if (a < x && x < Math.Log(b))
         {
             double y = Math.Sqrt(a + b * x) + Math.Sin(z * x); 
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
         else if (x >= Math.Log(b))
         {
             double y = Math.Log(a + b * x + z);
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
     } break;
     case 2:
@@ -34,17 +34,17 @@ switch (n)
         if (x <= a)
         {
             double y = a + Math.Sin(b * x) + Math.Cos(x * x);
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
         else if (a < x && x < Math.Log(b))
         {
             double y = Math.Sqrt(a + b * x) + Math.Sin(z * x); 
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
         else if (x >= Math.Log(b))
         {
             double y = Math.Log(a + b * x + z);
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
     } break;
     case 3:
@@ -53,17 +53,17 @@ switch (n)
         if (x <= a)
         {
             double y = a + Math.Sin(b * x) + Math.Cos(x * x);
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
         else if (a < x && x < Math.Log(b))
         {
             double y = Math.Sqrt(a + b * x) + Math.Sin(z * x); 
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
         else if (x >= Math.Log(b))
         {
             double y = Math.Log(a + b * x + z);
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y:F2}");
         }
     } break;
     
