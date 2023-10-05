@@ -1,4 +1,4 @@
-// Средний уровень № 27
+// Средний уровень № 17
 
 Console.Write("Введите число от 1 до 3: ");
 int n = Convert.ToInt32(Console.ReadLine());
