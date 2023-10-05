@@ -1,4 +1,6 @@
-﻿Console.Write("Введите число от 1 до 3: ");
+// Средний уровень № 27
+
+Console.Write("Введите число от 1 до 3: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите x: ");
