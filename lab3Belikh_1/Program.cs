@@ -1,4 +1,5 @@
-﻿try
+// Средний уровень 7 вариант
+try
 {
     Console.Write("Введите x: ");
     double x = Convert.ToDouble(Console.ReadLine());
