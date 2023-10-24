@@ -1,4 +1,5 @@
-﻿for (double x = -1; x <= 1; x += 0.25)
+// Высокий уровень 11 вариант
+for (double x = -1; x <= 1; x += 0.25)
 {
     double u = x * x - Math.Asin(x * x);
     if (x > Math.PI)
