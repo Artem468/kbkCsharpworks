@@ -1,4 +1,5 @@
-﻿try
+// 7 вариант Высокий уровень
+try
 {
     Console.WriteLine("Введите числа");
     double number = Convert.ToDouble(Console.ReadLine());
