@@ -1,4 +1,5 @@
-﻿try
+// Вариант 11
+try
 {
     Console.Write("Введите x: ");
     double x = Convert.ToDouble(Console.ReadLine());
