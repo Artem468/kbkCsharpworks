@@ -6,7 +6,7 @@
     Console.Write("Введите n: ");
     int n = Convert.ToInt32(Console.ReadLine());
 
-    double S = 0;
+    double S = 1;
 
     for (int i = 1; i <= n; i++)
     {
