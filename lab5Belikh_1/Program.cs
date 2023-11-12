@@ -1,4 +1,5 @@
-﻿Console.Write("Введите текст: ");
+// Высокий уровень сложности. Задача № 9
+Console.Write("Введите текст: ");
 char[] massive = Console.ReadLine().ToCharArray();
 
 
