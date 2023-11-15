@@ -8,21 +8,21 @@ foreach (string word in input.Split(' '))
     bool flag = true;
     foreach (char letter in word)
     {
-        if (!(char.IsLower(letter) && letter >= 'a' && letter <= 'я'))
+        if ((!(letter >= 'а' && letter <= 'я') || letter == 'ё'))
         {
             flag = false;
         }
     }
-
+    
     if (flag)
     {
+        Console.WriteLine(word);
         count++;
     }
     flag = true;
 }
 
 Console.WriteLine($"Количество слов состоящих только из строчных русскоих букв: {count}");
-
 
 
 // Более симпотичное решение с использованием регулярных выражений
