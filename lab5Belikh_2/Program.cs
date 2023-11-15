@@ -16,7 +16,6 @@ foreach (string word in input.Split(' '))
     
     if (flag)
     {
-        Console.WriteLine(word);
         count++;
     }
     flag = true;
