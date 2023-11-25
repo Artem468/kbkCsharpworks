@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6Belikh_2", "lab6Belikh_2\lab6Belikh_2.csproj", "{133C77BB-47BB-4EBB-91E6-8FEDEB13830C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{73EB8FB7-1E8A-4BE7-A752-75F96CE619DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133C77BB-47BB-4EBB-91E6-8FEDEB13830C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133C77BB-47BB-4EBB-91E6-8FEDEB13830C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133C77BB-47BB-4EBB-91E6-8FEDEB13830C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133C77BB-47BB-4EBB-91E6-8FEDEB13830C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EB8FB7-1E8A-4BE7-A752-75F96CE619DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EB8FB7-1E8A-4BE7-A752-75F96CE619DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EB8FB7-1E8A-4BE7-A752-75F96CE619DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EB8FB7-1E8A-4BE7-A752-75F96CE619DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
