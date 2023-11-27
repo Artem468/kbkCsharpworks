@@ -1,4 +1,5 @@
-﻿try
+// Вариант 25 Высокий уровень
+try
 {
     Console.Write("Введите n: ");
     int n = Convert.ToInt32(Console.ReadLine());
