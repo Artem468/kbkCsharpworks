@@ -1,4 +1,5 @@
-﻿using Library;
+// Вариант 25 средний уровень
+using Library;
 
 try
 {
