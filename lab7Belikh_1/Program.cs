@@ -1,4 +1,5 @@
-﻿try
+// Вариант 22 средний уровень
+try
 {
     Console.Write("Введите количество машин: ");
     int n = Convert.ToInt32(Console.ReadLine());
