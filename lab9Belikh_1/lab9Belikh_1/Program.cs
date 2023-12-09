@@ -2,10 +2,17 @@
 
 Cylinder cylinder = new Cylinder();
 
-Console.Write("Введите диаметр: ");
-cylinder.Diameter = Convert.ToDouble(Console.ReadLine());
-Console.Write("Введите высоту: ");
-cylinder.Height = Convert.ToDouble(Console.ReadLine());
+try
+{
+    Console.Write("Введите диаметр: ");
+    cylinder.Diameter = Convert.ToDouble(Console.ReadLine());
+    Console.Write("Введите высоту: ");
+    cylinder.Height = Convert.ToDouble(Console.ReadLine());
+}
+catch (Exception err)
+{
+    Console.WriteLine(err.Message);
+}
 
 Console.WriteLine($"Диаметр: {cylinder.Diameter}");
 Console.WriteLine($"Высота: {cylinder.Height}");
