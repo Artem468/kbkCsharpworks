@@ -22,6 +22,18 @@ public class Cylinder
 {
     private double diameter;
     private double height;
+
+    public Cylinder(double diameter, double height)
+    {
+        this.diameter = diameter;
+        this.height = height;
+    }
+    
+    public Cylinder()
+    {
+        this.diameter = 0;
+        this.height = 0;
+    }
     
     public double Diameter
     {
