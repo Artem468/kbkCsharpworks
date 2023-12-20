@@ -1,0 +1,14 @@
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\bin\Debug\net7.0\lab10Belykh_1.exe
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\bin\Debug\net7.0\lab10Belykh_1.deps.json
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\bin\Debug\net7.0\lab10Belykh_1.runtimeconfig.json
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\bin\Debug\net7.0\lab10Belykh_1.dll
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\bin\Debug\net7.0\lab10Belykh_1.pdb
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.AssemblyInfoInputs.cache
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.AssemblyInfo.cs
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.csproj.CoreCompileInputs.cache
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.dll
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\refint\lab10Belykh_1.dll
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.pdb
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\lab10Belykh_1.genruntimeconfig.cache
+D:\disk_E\programs_on_C\lab10Belykh_1\lab10Belykh_1\obj\Debug\net7.0\ref\lab10Belykh_1.dll
