@@ -1,4 +1,6 @@
-﻿Meeting meet = new Meeting();
+// 20 вариант
+
+Meeting meet = new Meeting();
 try
 {
     Console.Write("Введите название события: ");
